@@ -1,7 +1,6 @@
 # Skąpiec
 
 ## Autor: Molière
-## Tłumacz: Tadeusz Boy-Żeleński
 
 ## Główne Postacie
 
